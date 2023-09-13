@@ -1,17 +1,23 @@
-# second_task
+# CV App
 
-A new Flutter project.
+A HNG 2023 internship, second task assigned to interns.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is writing with dart, using the flutter framework. It includes the following features
+- A home screen showing user's profile
+    - Full Name
+    - Slack Name
+    - Git hub link
+    - Biography off user
+- It also has a button on the app bar, where user click to go to the editing page
+- The editing page consist of
+    - Textfield for new full name
+    - Textfield for new slack name
+    - Textfield for new git hub link
+    - Textfield for new bio
+- The editing page also has a save button on the app bar that saves user's new input and moves user to the home page.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# cv_app_hng_second_task
+## Check live app on appatize.io 
+use the link below to check the app live on appatize.io
+https://appetize.io/embed/zufre74fgr4xy4dekoc5klajui
