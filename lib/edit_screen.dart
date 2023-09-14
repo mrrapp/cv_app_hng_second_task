@@ -80,6 +80,7 @@ class _EditscreenState extends State<Editscreen> {
             ),
             TextField(
               controller: bioSummaryController,
+              maxLines: 10,
               decoration: const InputDecoration(labelText: 'New Bio here'),
             ),
           ],

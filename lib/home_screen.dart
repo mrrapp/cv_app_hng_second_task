@@ -62,8 +62,8 @@ Has the ability to work effectively both independently and in a team""";
       ),
       body: Padding(
         padding: const EdgeInsets.symmetric(horizontal: 16.0, vertical: 8),
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.start,
+        child: ListView(
+          //mainAxisAlignment: MainAxisAlignment.start,
           children: [
             // Personal Information.
             const Text(
